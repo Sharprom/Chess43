@@ -1,0 +1,2 @@
+# Chess43
+The project "Three-player chess (chess for three)" is revalidated on the Unity engine. The game is an implementation of chess for three. Three-player chess (also known as three-handed chess, three-person chess or three-player chess) is a family of chess variants specifically designed for three players. The project is interesting because this type of chess uses a hexagonal board in which the central cells are connected in a special way, which makes the implementation of the game algorithms is not standard in contrast to chess for two players.
